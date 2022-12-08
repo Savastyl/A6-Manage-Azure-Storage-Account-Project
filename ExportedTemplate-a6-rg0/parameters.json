@@ -19,6 +19,9 @@
         },
         "networkSecurityGroups_A6_nsg0_name": {
             "value": null
+        },
+        "networkSecurityGroups_A6_Mar0_name": {
+            "value": null
         }
     }
 }
